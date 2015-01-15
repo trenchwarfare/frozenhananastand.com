@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flavor: MyString
+  size: MyString
+  is_chocolate_dipped: false
+
+two:
+  flavor: MyString
+  size: MyString
+  is_chocolate_dipped: false

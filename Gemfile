@@ -48,6 +48,6 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.1.0'
 gem 'autoprefixer-rails', '~> 4.0.2.2'
-gem 'devise', '~> 3.4.1'
+gem 'devise', '~> 4.6.0'
 gem 'retina_tag', '~> 1.3.1'
 
